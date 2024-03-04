@@ -1,0 +1,132 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Introduction to React",
+        "description": "Learn the basics of React.js framework",
+        "url": "https://www.example.com/videos/intro-to-react",
+        "duration": "00:30:00",
+        "views": 10000,
+        "likes": 500,
+        "dislikes": 10,
+        "tags": ["React", "JavaScript", "Frontend"]
+      },
+      {
+        "id": 2,
+        "title": "Node.js Crash Course",
+        "description": "Get started with Node.js quickly",
+        "url": "https://www.example.com/videos/nodejs-crash-course",
+        "duration": "01:15:00",
+        "views": 7500,
+        "likes": 400,
+        "dislikes": 5,
+        "tags": ["Node.js", "JavaScript", "Backend"]
+      },
+      {
+        "id": 3,
+        "title": "Building RESTful APIs with Express",
+        "description": "Learn how to create RESTful APIs using Express.js",
+        "url": "https://www.example.com/videos/restful-apis-with-express",
+        "duration": "01:45:00",
+        "views": 6000,
+        "likes": 300,
+        "dislikes": 8,
+        "tags": ["Express.js", "Node.js", "Backend"]
+      },
+      {
+        "id": 4,
+        "title": "CSS Flexbox Tutorial",
+        "description": "Master CSS Flexbox layout model",
+        "url": "https://www.example.com/videos/css-flexbox-tutorial",
+        "duration": "00:45:00",
+        "views": 8500,
+        "likes": 600,
+        "dislikes": 15,
+        "tags": ["CSS", "Frontend", "Layout"]
+      },
+      {
+        "id": 5,
+        "title": "MongoDB Basics",
+        "description": "Learn the fundamentals of MongoDB",
+        "url": "https://www.example.com/videos/mongodb-basics",
+        "duration": "01:00:00",
+        "views": 5000,
+        "likes": 200,
+        "dislikes": 7,
+        "tags": ["MongoDB", "Database", "NoSQL"]
+      },
+      {
+        "id": 6,
+        "title": "Responsive Web Design Principles",
+        "description": "Understand the principles of responsive web design",
+        "url": "https://www.example.com/videos/responsive-web-design-principles",
+        "duration": "00:55:00",
+        "views": 9200,
+        "likes": 700,
+        "dislikes": 12,
+        "tags": ["Web Design", "CSS", "Frontend"]
+      },
+      {
+        "id": 7,
+        "title": "Python Flask Tutorial",
+        "description": "Build web applications with Flask framework",
+        "url": "https://www.example.com/videos/python-flask-tutorial",
+        "duration": "01:30:00",
+        "views": 7800,
+        "likes": 550,
+        "dislikes": 20,
+        "tags": ["Python", "Flask", "Web Development"]
+      },
+      {
+        "id": 8,
+        "title": "Data Structures and Algorithms in Java",
+        "description": "Learn common data structures and algorithms implementation in Java",
+        "url": "https://www.example.com/videos/data-structures-algorithms-java",
+        "duration": "02:00:00",
+        "views": 6800,
+        "likes": 400,
+        "dislikes": 10,
+        "tags": ["Java", "Data Structures", "Algorithms"]
+      },
+      {
+        "id": 9,
+        "title": "GraphQL Crash Course",
+        "description": "Get started with GraphQL quickly",
+        "url": "https://www.example.com/videos/graphql-crash-course",
+        "duration": "01:20:00",
+        "views": 6200,
+        "likes": 350,
+        "dislikes": 8,
+        "tags": ["GraphQL", "API", "Backend"]
+      },
+      {
+        "id": 10,
+        "title": "React Native Tutorial",
+        "description": "Build mobile apps with React Native",
+        "url": "https://www.example.com/videos/react-native-tutorial",
+        "duration": "01:45:00",
+        "views": 5300,
+        "likes": 300,
+        "dislikes": 15,
+        "tags": ["React Native", "JavaScript", "Mobile Development"]
+      }
+    ],
+    "tags": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "JavaScript" },
+        { "id": 3, "name": "Frontend" },
+        { "id": 4, "name": "Node.js" },
+        { "id": 5, "name": "Backend" },
+        { "id": 6, "name": "Express.js" },
+        { "id": 7, "name": "CSS" },
+        { "id": 8, "name": "Layout" },
+        { "id": 9, "name": "MongoDB" },
+        { "id": 10, "name": "Database" },
+        { "id": 11, "name": "NoSQL" },
+        { "id": 12, "name": "Web Design" },
+        { "id": 13, "name": "Flask" },
+        { "id": 14, "name": "Python" },
+        { "id": 15, "name": "Java" }
+      ]
+  }
+  
