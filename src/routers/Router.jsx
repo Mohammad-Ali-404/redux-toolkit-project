@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Home from "../Pages/Home/Home";
 import Main from "../layout/Main";
+import Videos from "../Pages/Videos/Videos";
 
 const router = createBrowserRouter([
     {
@@ -10,6 +11,10 @@ const router = createBrowserRouter([
             {
                 path:'/',
                 element:<Home/>
+            },
+            {
+                path:'videosDetails',
+                element:<Videos/>
             }
         ]
         
