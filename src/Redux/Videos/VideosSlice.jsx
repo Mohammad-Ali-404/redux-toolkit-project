@@ -7,7 +7,7 @@ const initialState = {
     isError : false,
     error: ''
 }
-export const fetchVideosData = createAsyncThunk('videos/fetchVideos', 
+export const fetchVideosData = createAsyncThunk('Videos/fetchVideos', 
     async () =>{
         const videos = await getVideos()
         return videos;

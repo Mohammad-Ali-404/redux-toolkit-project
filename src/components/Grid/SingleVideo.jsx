@@ -25,7 +25,7 @@ const SingleVideo = ({video}) => {
                             </div>
 
                             <div className="flex flex-row mt-2 gap-2">
-                                <Link to='videosDetails' href="#" className="shrink-0">
+                                <Link to={`/videosDetails/${id}`} href="#" className="shrink-0">
                                     <img
                                         src="logo"
                                         className="rounded-full h-6 w-6"
@@ -34,14 +34,14 @@ const SingleVideo = ({video}) => {
                                 </Link>
 
                                 <div className="flex flex-col">
-                                    <Link to='videosDetails' href="video.html">
+                                    <Link to={`/videosDetails/${id}`} href="video.html">
                                         <p
                                             className="text-slate-900 text-sm font-semibold"
                                         >
                                             {title}
                                         </p>
                                     </Link>
-                                    <Link to='videosDetails'
+                                    <Link to={`/videosDetails/${id}`}
                                         className="text-gray-400 text-xs mt-2 hover:text-gray-600"
                                         href="#"
                                     >
