@@ -9,7 +9,8 @@
         "views": 10000,
         "likes": 500,
         "dislikes": 10,
-        "tags": ["React", "JavaScript", "Frontend"]
+        "tags": "React, JavaScript, Frontend",
+        "image":"aaa"
       },
       {
         "id": 2,
@@ -20,7 +21,8 @@
         "views": 7500,
         "likes": 400,
         "dislikes": 5,
-        "tags": ["Node.js", "JavaScript", "Backend"]
+        "tags": "Node.js, JavaScript, Backend",
+        "image":"aaa"
       },
       {
         "id": 3,
@@ -31,7 +33,8 @@
         "views": 6000,
         "likes": 300,
         "dislikes": 8,
-        "tags": ["Express.js", "Node.js", "Backend"]
+        "tags": "Express.js, Node.js, Backend",
+        "image":"aaa"
       },
       {
         "id": 4,
@@ -42,7 +45,8 @@
         "views": 8500,
         "likes": 600,
         "dislikes": 15,
-        "tags": ["CSS", "Frontend", "Layout"]
+        "tags": "CSS, Frontend, Layout",
+        "image":"aaa"
       },
       {
         "id": 5,
@@ -53,7 +57,8 @@
         "views": 5000,
         "likes": 200,
         "dislikes": 7,
-        "tags": ["MongoDB", "Database", "NoSQL"]
+        "tags": "MongoDB, Database, NoSQL",
+        "image":"aaa"
       },
       {
         "id": 6,
@@ -64,7 +69,8 @@
         "views": 9200,
         "likes": 700,
         "dislikes": 12,
-        "tags": ["Web Design", "CSS", "Frontend"]
+        "tags": "Web Design, CSS, Frontend",
+        "image":"aaa"
       },
       {
         "id": 7,
@@ -75,7 +81,8 @@
         "views": 7800,
         "likes": 550,
         "dislikes": 20,
-        "tags": ["Python", "Flask", "Web Development"]
+        "tags": "Python, Flask, Web Development",
+        "image":"aaa"
       },
       {
         "id": 8,
@@ -86,7 +93,8 @@
         "views": 6800,
         "likes": 400,
         "dislikes": 10,
-        "tags": ["Java", "Data Structures", "Algorithms"]
+        "tags": "Java, Data Structures, Algorithms",
+        "image":"aaa"
       },
       {
         "id": 9,
@@ -97,7 +105,8 @@
         "views": 6200,
         "likes": 350,
         "dislikes": 8,
-        "tags": ["GraphQL", "API", "Backend"]
+        "tags": "GraphQL, API, Backend",
+        "image":"aaa"
       },
       {
         "id": 10,
@@ -108,7 +117,8 @@
         "views": 5300,
         "likes": 300,
         "dislikes": 15,
-        "tags": ["React Native", "JavaScript", "Mobile Development"]
+        "tags": "React Native, JavaScript, Mobile Development",
+        "image":"aaa"
       }
     ],
     "tags": [

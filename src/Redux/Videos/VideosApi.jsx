@@ -1,11 +1,6 @@
-import React from 'react';
+import axiosInstance from '../../Hooks/UseAxiosSecureHook'
+export const getVideos = async () => {
+    const response = await axiosInstance.get("/videos");
 
-const VideosApi = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+    return response.data;
 };
-
-export default VideosApi;
